@@ -70,6 +70,7 @@ p {
     width: 800px;
     margin: 0 auto;
 }
+ 
 
 header {
   display: flex;
@@ -159,4 +160,20 @@ footer nav a {
     color: white;
     text-decoration: none;
 
+}
+
+.strategy {
+    display: inline-block;
+}
+
+.jumbo-about {
+    padding: 20px 0px;
+}
+
+.strategy {
+    display: flex;
+}
+
+.places {
+    display: flex;
 }
