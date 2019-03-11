@@ -177,3 +177,25 @@ footer nav a {
 .places {
     display: flex;
 }
+
+button {
+    font-size: 12px;
+    padding: 10px 24px;
+    background-color: white;
+    border-radius: 12px;
+    border: 2px solid black;
+    margin: 10px 0px;
+}
+
+.bottom {
+    padding: 10px 0px;
+}
+
+.bottom div {
+    padding: 40px 0px;
+}
+
+hr {
+    width:95%;
+    border-top: 1px dashed black;
+}
